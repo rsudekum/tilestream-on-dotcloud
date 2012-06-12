@@ -4,4 +4,4 @@ tilestream:
     - tilestream
   environment:
     mbtiles:
-      - http://visuallybs.com/maps/mbtiles/crime.mbtiles
+      - http://a.tiles.mapbox.com/v2/mapbox.haiti-terrain-grey.mbtiles
