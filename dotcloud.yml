@@ -5,4 +5,4 @@ tilestream:
   environment:
     mbtiles:
       - http://visuallybs.com/maps/mbtiles/crime.mbtiles
-      - http://www.visuallybs.com/maps/mbtiles/nycsubway
+      - http://visuallybs.com/maps/mbtiles/nycsubway.mbtiles
