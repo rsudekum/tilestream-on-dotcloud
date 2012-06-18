@@ -6,3 +6,6 @@ tilestream:
     mbtiles:
       - http://visuallybs.com/maps/mbtiles/crime.mbtiles
       - http://visuallybs.com/maps/mbtiles/nycsubway.mbtiles
+      - http://visuallybs.com/maps/mbtiles/brussels.mbtiles
+      - http://visuallybs.com/maps/mbtiles/sfimage.mbtiles
+      - http://visuallybs.com/maps/mbtiles/sflight.mbtiles
