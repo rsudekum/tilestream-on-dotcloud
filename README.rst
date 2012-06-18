@@ -3,7 +3,7 @@ TileStream on DotCloud
 
 To deploy tilestream on DotCloud::
 
-  git clone git://github.com/jpetazzo/tilestream-on-dotcloud
+  git clone git://github.com/rsudekum/tilestream-on-dotcloud
   dotcloud push tilestream tilestream-on-dotcloud
 
 Then go to the URL shown at the end of the push.
