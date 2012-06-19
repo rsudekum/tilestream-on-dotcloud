@@ -10,3 +10,7 @@ tilestream:
       - http://visuallybs.com/maps/mbtiles/sfimage.mbtiles
       - http://visuallybs.com/maps/mbtiles/sflight.mbtiles
       - http://visuallybs.com/maps/mbtiles/neigh.mbtiles
+      - http://visuallybs.com/maps/mbtiles/Fires.mbtiles
+      - http://visuallybs.com/maps/mbtiles/cm.mbtiles
+      - http://visuallybs.com/maps/mbtiles/obesity.mbtiles
+      - http://visuallybs.com/maps/mbtiles/photo.mbtiles
