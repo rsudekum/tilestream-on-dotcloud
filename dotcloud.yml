@@ -2,6 +2,7 @@ tilestream:
   type: nodejs
   requirements:
     - tilestream
+    - zlib
   environment:
     mbtiles:
       - http://visuallybs.com/maps/mbtiles/crime.mbtiles
