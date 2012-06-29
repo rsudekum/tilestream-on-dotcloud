@@ -13,8 +13,4 @@ tilestream:
       - http://visuallybs.com/maps/mbtiles/neigh.mbtiles
       - http://visuallybs.com/maps/mbtiles/Fires.mbtiles
       - http://visuallybs.com/maps/mbtiles/obesity.mbtiles
-      - http://visuallybs.com/maps/mbtiles/cm.mbtiles
-      - http://visuallybs.com/maps/mbtiles/photo.mbtiles
-      - http://visuallybs.com/maps/mbtiles/Ecoregions.mbtiles
-      - http://visuallybs.com/maps/mbtiles/brusselstwo.mbtiles
-      - http://visuallybs.com/maps/mbtiles/transparent.mbtiles
+  
