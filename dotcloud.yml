@@ -1,6 +1,5 @@
 tilestream:
   type: nodejs
-    - zlib
   requirements:
     - tilestream
     - zlib
